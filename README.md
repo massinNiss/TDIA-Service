@@ -79,22 +79,22 @@ This project is a responsive website developed using the Laravel framework. It i
      ```
 
 3. **Configure the Environment:**
-   - Configure your database settings:
-     ```
-     .env file
+   - Copy `.env.example` to `.env` and configure your database settings:
+     ```bash
+     cp .env.example .env
      ```
    - Run `composer install` to install PHP dependencies.
    - Run `npm install` to install JavaScript dependencies.
 
-4. **Database Migration:**
+5. **Database Migration:**
    - Run `php artisan migrate` to set up the database tables.
    - Run `php artisan db:seed` to seed the database with initial data.
 
-5. **Other Important Stuff:**
+6. **Other Important Stuff:**
    - Run `rm public/storage`
    - Run `php artisan storage:link`
 
-6. **Serve the Application:**
+7. **Serve the Application:**
    - Run `php artisan serve` to start the Laravel development server.
    - Access the website at `http://localhost:8000`.
 

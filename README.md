@@ -10,7 +10,7 @@
 ## About Project
 
 ![Login Page](imgs/login.png)
-![Teacher dashBoard](imgs/dashboard.png)
+![Teacher dashBoard]("imgs/2024-06-21 164123.png")
 ![Teacher Side-Bar](imgs/side-bar.png)
 ![About-our-school](imgs/ensa-h.png)
 

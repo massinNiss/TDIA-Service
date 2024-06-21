@@ -10,10 +10,10 @@
 ## About Project
 
 ![Login Page](imgs/login.png)
-![Teacher dashBoard]("imgs/2024-06-21 164123.png")
-![Teacher Side-Bar](imgs/side-bar.png)
-![About-our-school](imgs/ensa-h.png)
-
+![Teacher dashBoard](imgs/2024-06-21-164123.png)
+![Teacher Side-Bar](imgs/2024-06-21-164224.png)
+![Import-students](imgs/2024-06-21-164631.png)
+![Manage-subjectsl](imgs/2024-06-21-164412.png)
 
 # Responsive Website for Managing Students and Teachers
 
